@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:e3fdf5,100:ffe6fa&height=120&section=header&text=RYEONGSE'S%20GITHUB&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:e3fdf5,100:ffe6fa&height=120&section=header&text=SERYEONG'S%20GITHUB&fontSize=60)
 
 <h3 align="center">Tech Stack</h3>
 <p align="center">
