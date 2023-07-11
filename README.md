@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=0:e3fdf5,100:ffe6fa&height=120&section=header&text=SERYEONG'S%20GITHUB&fontSize=60)
 
+<hr>
 <h3 align="center">Tech Stack</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>
@@ -20,12 +21,14 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/></a>
 </p>
 
+<hr>
 <h3 align="center"> Top Languages </h3>
 <div align="center">
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ryeongse25&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
+<hr>
 <h3 align="center"> Github Stats </h3>
 <div align="center">
 
