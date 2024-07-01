@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=0:e3fdf5,100:ffe6fa&height=120&section=header&text=SERYEONG'S%20GITHUB&fontSize=60)
 <hr>
-<h3 align="center">🖥️</h3>
+<h3 align="center">🖥️ &nbsp; Frontend Developer</h3>
 <hr>
 <h3 align="center">Tech Stack</h3>
 <p align="center">
